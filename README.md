@@ -9,6 +9,12 @@ A Streamlit-based medical AI assistant powered by Google's Gemini AI for analyzi
 - 🖼️ Medical image interpretation
 - ⚠️ Safety-focused responses with professional consultation reminders
 
+# 🧩 Architecture
+![Alt Text](https://github.com/Punya-B-R/clinical-ai-agent/blob/master/images/Screenshot%202025-04-10%20200629.png?raw=true)
+
+# 🖥️ Interface preview
+![Alt Text](https://github.com/Punya-B-R/clinical-ai-agent/blob/master/images/Screenshot%202025-03-27%20170435.png?raw=true)
+
 ## Local Setup Guide
 ### 1. **Install Python 3.9+**  
    Download from [python.org](https://www.python.org/downloads/) then verify:
